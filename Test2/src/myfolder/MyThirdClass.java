@@ -1,3 +1,4 @@
+package myfolder;
 public class  MyThirdClass{
 
 	public static void main(String[] args) {
